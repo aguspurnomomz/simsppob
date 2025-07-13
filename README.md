@@ -1,6 +1,6 @@
 # Nutech
 
-A new Flutter project.
+A mini project collaboration with Nutech Integrasi, to create a prototype Payment Point Online Bank based on Mobile apps, built with the latest cross-platform tech stack.
 
 ## Getting Started
 
